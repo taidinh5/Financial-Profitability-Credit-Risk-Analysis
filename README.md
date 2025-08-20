@@ -29,7 +29,7 @@ These metrics helped evaluate liquidity, solvency, and long-term risk. Based on 
 ## Deliverables  
 - Profitability Analysis Report (Nike, Inc.)  
 - Credit Risk Analysis Report (Nike, Inc. vs. Under Armour, Inc.)  
-- Visualizations and Charts highlighting key financial ratios  
+- Analysis Report highlighting strengths and weaknesses
 
 ## Key Takeaway  
 This project strengthened my ability to perform **financial statement analysis, credit risk evaluation, and investment recommendations** using real-world company data.  
