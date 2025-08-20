@@ -1,3 +1,8 @@
+**Profitability Analysis XLSX File:** [Download](sandbox:/mnt/data/Profitability%20Ratio%20Analysis.xlsx)
+
+
+---
+
 <img width="1027" height="286" alt="{3D4E16D8-0661-4944-BEE6-7D71139963CE}" src="https://github.com/user-attachments/assets/7f5e093e-4389-436b-a24a-8021d690a612" />
 <img width="525" height="424" alt="{11D2DCE9-430C-4D0F-B9A9-E0C2819A26FC}" src="https://github.com/user-attachments/assets/6436ef2e-6611-4d11-9eeb-cbad3d7e80f9" />
 <img width="546" height="428" alt="{2EA3FB94-6A25-472F-89BD-01A82A428C85}" src="https://github.com/user-attachments/assets/afc222f4-a594-480d-a375-2a660538c750" />
